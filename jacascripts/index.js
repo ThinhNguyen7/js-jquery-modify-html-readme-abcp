@@ -1,1 +1,3 @@
-$("yo").append("Hey everybody")
+$(document).ready(function()) {
+$("yo").append("Hey everybody!!!")
+})
